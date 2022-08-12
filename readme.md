@@ -1,3 +1,3 @@
-# template.commitlint
+# node-dev-env
 
-A template for commitlint configurations.
+Development environment configurations for a node repo on vscode as a template.
