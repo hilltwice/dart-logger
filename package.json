@@ -1,6 +1,6 @@
 {
   "name": "node-logger",
-  "description": "A simple but elegant colorful logger for node.",
+  "description": "Development environment configurations for a node repo on vscode as a template.",
   "version": "0.0.0",
   "private": false,
   "scripts": {
